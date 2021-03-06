@@ -1,9 +1,12 @@
 # CSS-and-JS-Clock
-[] Create a HTML file
-[] Create a div with class name clock
-[] Create a div within "clock" name the new div clock-face
-[] Create 3 divs in "clock-face": hour-hand, minute-hand, second-hand.
-[] Use the setDate method to get seconds, minutes, hours.
-[] Create logic to get the hands moving by the correct degrees.
-[] Style using CSS.
+CSS and JS Clock is a simple web application showing the current time.
+
+### Description 
+CSS and JS Clock displays the current time on a circular analog clock face using the setDate method. It was designed using ES6 JavaScript, HTML5 and CSS.  
+
+### Screen Video
+
+### License
+
+
 
